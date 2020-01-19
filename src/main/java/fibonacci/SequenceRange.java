@@ -7,6 +7,7 @@ final class SequenceRange {
     private final int start;
     private final int length;
 
+    /* Constructor for fibonacci sequence range object */
     public SequenceRange(int start, int length) {
         this.start = start;
         this.length = length;
