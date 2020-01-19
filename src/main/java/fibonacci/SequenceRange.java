@@ -1,7 +1,7 @@
 package fibonacci;
 
 /**
- * SequenceRange
+ * SequenceRange Joonas Hakkarainen 19.01.2020
  */
 final class SequenceRange {
     private final int start;
